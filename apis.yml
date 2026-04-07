@@ -9,8 +9,8 @@ image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/methodology/refs/heads/main/apis.yml
 tags:
-  - Methodology
   - Methodologies
+  - Methodology
   - Process
   - Software Development
 created: '2025-01-01'
