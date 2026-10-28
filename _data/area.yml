@@ -1,0 +1,82 @@
+meta:
+  name: Methodology
+  description: 'An index and topic collection covering the methodologies that shape how software and APIs
+    are planned, built and run: agile frameworks like Scrum and Extreme Programming, Lean and Lean Six
+    Sigma, the software development lifecycle, project management methods, and the working artifacts they
+    produce, such as product backlogs, user stories, RACI matrices and Gantt charts. These are practices,
+    not products, so each appears here as a term rather than as a provider.'
+  tags:
+  - Methodology
+  - Agile
+  - Lean
+  - Software Development Lifecycle
+  - Project Management
+  portal: https://apievangelist.com
+  github: https://github.com/api-evangelist
+  repo: methodology
+services_tools: []
+features:
+- name: Development Methodology
+  description: Development Methodology encompasses the structured approaches, frameworks, and processes
+    used to plan, execute, and manage software development projects.
+  url: https://apis.io/topics/development-methodology/
+- name: Extreme Programming
+  description: Extreme Programming (XP) is an agile software development methodology that aims to produce
+    higher quality software and improve quality of life for the development team.
+  url: https://apis.io/topics/extreme-programming/
+- name: Gantt Charts
+  description: Gantt charts are a project-management visualization that depicts tasks, timelines, dependencies,
+    and progress against a calendar.
+  url: https://apis.io/topics/gantt-charts/
+- name: Lean Manufacturing
+  description: Lean Manufacturing is a manufacturing philosophy that focuses on minimizing waste within
+    manufacturing systems while simultaneously maximizing productivity.
+  url: https://apis.io/topics/lean-manufacturing/
+- name: Lean Operations
+  description: Lean Operations is a business or enterprise practice that helps organizations manage operations,
+    make strategic decisions, and achieve their objectives.
+  url: https://apis.io/topics/lean-operations/
+- name: Lean Six Sigma
+  description: Lean Six Sigma is a methodology that combines Lean manufacturing principles and Six Sigma
+    quality management techniques to improve business processes by eliminating waste and reducing variation,
+    focusing on data-driven decision making and continuous improvement.
+  url: https://apis.io/topics/lean-six-sigma/
+- name: Lean Six Sigma Black Belt
+  description: Lean Six Sigma Black Belt is an advanced certification in Lean Six Sigma methodology focused
+    on leading complex improvement projects, statistical analysis, and change management to reduce defects
+    and variability in business processes.
+  url: https://apis.io/topics/lean-six-sigma-black-belt/
+- name: Product Backlog
+  description: A product backlog is a prioritized list of features, enhancements, and fixes that serves
+    as the single source of requirements for product development.
+  url: https://apis.io/topics/product-backlog/
+- name: Product Backlog Items
+  description: Product backlog items (PBIs) are the individual units of work that make up a product backlog,
+    representing features, enhancements, bug fixes, and technical tasks in Agile and Scrum methodologies.
+  url: https://apis.io/topics/product-backlog-items/
+- name: Product Specifications
+  description: Product specifications are detailed technical specifications and requirements documentation
+    for products, helping teams align stakeholders and track progress throughout the product lifecycle.
+  url: https://apis.io/topics/product-specifications/
+- name: Project Management Methodology
+  description: A systematic approach or framework for planning, executing, and controlling projects to
+    achieve specific goals within defined constraints of time, budget, and resources.
+  url: https://apis.io/topics/project-management-methodology/
+- name: RACI
+  description: A responsibility assignment matrix that defines roles and responsibilities using four key
+    designations - Responsible (those who do the work), Accountable (the ultimate decision maker), Consulted
+    (those whose input is needed), and Informed (those who need to be kept updated).
+  url: https://apis.io/topics/raci/
+- name: Scrum
+  description: Scrum is an agile project management framework that organizes work into fixed-length iterations
+    called sprints, typically lasting two to four weeks.
+  url: https://apis.io/topics/scrum/
+- name: Software Development Lifecycle
+  description: The Software Development Lifecycle (SDLC) encompasses all processes, tools, and methodologies
+    involved in planning, developing, testing, and delivering software from inception to retirement.
+  url: https://apis.io/topics/software-development-lifecycle/
+- name: User Stories
+  description: A curated collection of API user stories following agile methodology formats.
+  url: https://apis.io/topics/user-stories/
+use_cases: []
+integrations: []

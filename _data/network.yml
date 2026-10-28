@@ -1,0 +1,31 @@
+related:
+- name: Road Map
+  url: https://road-map.apievangelist.com
+  icon: https://road-map.apievangelist.com/icon.png
+  description: An index and topic collection covering public product road map publishing, feature voting,
+    customer feedback aggregation, and product discovery surfaces. Public road map platforms…
+- name: Issues
+  url: https://issues.apievangelist.com
+  icon: https://issues.apievangelist.com/icon.png
+  description: An index and topic collection covering issue tracking, bug tracking, and project-management
+    APIs that expose issue, ticket, task, and work-item primitives. Issue tracking APIs are…
+- name: Design
+  url: https://design.apievangelist.com
+  icon: https://design.apievangelist.com/icon.png
+  description: A curated index of services, tooling, and open source solutions for API design, specification
+    editing, linting, and governance. This collection covers visual API designers,…
+- name: Reliability
+  url: https://reliability.apievangelist.com
+  icon: https://reliability.apievangelist.com/icon.png
+  description: An index and topic collection covering site reliability engineering (SRE), reliability
+    platforms, service level objectives (SLOs), error budgets, chaos engineering, resilience…
+- name: Developer Experience
+  url: https://developer-experience.apievangelist.com
+  icon: https://developer-experience.apievangelist.com/icon.png
+  description: This is the index of developer experience service and tooling repos being tracked by the
+    API Evangelist network, covering developer portals, API documentation platforms, API…
+- name: Testing
+  url: https://testing.apievangelist.com
+  icon: https://testing.apievangelist.com/icon.png
+  description: A curated index of services, tooling, and open source solutions for API testing, mocking,
+    load testing, contract testing, and quality assurance. This collection covers functional…

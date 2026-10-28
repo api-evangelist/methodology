@@ -1,0 +1,14 @@
+title: Methodology
+description: 'An index and topic collection covering the methodologies that shape how software and APIs
+  are planned, built and run: agile frameworks like Scrum and Extreme Programming, Lean and Lean Six Sigma,
+  the software development lifecycle, project management methods, and the working artifacts they produce,
+  such as product backlogs, user stories, RACI matrices and Gantt charts. These are practices, not products,
+  so each appears here as a term rather than as a provider.'
+url: https://methodology.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
